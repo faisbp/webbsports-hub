@@ -1,2 +1,14 @@
 # webbsports-hub
-HTML page archive and documentation
+
+HTML 页面发布记录
+
+发布程序会将生成后的页面写入本仓库，形成可追踪的文件记录。
+
+## 结构说明
+
+- 根目录用于存放发布页面
+- 仓库说明用于辅助识别用途
+
+## 文件状态
+
+已发布页面以仓库中的 HTML 文件为准，README 只做概览说明。
